@@ -218,7 +218,7 @@ This project is open-source and available under the MIT License.
 
 ## 👨‍💻 Author
 
-**S Trinaini**
+**Jetty Usha Rani**
 
 Computer Science Student  
 Mohan Babu University
